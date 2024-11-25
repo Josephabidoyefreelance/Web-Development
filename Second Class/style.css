@@ -1,0 +1,29 @@
+
+p{
+    color: blue;
+    text-shadow: 0cap;
+
+    font-size: medium;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.flex-container {
+    font-display: blue;
+    justify-content: space-around;
+    border: 10px solid blanchedalmond;
+    width: 100%;
+    padding: 10px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+    margin-left: 100px;
+    background-color: blueviolet;
+}
+
+.box-model{
+    border: 30;
+    background-color: red;
+    width: 100%px;
+}
+}
+    
