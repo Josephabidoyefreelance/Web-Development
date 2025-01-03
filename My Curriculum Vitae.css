@@ -1,0 +1,53 @@
+html{
+    background: white;
+}
+
+h1{
+   color:black;
+   background-color: #9AA6B2;
+   border: 3px solid black;
+}
+
+h2{
+    color: black;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: #ACB1D6;
+}
+
+.mango{
+    color:black;
+    font-weight: bold;
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: small;
+    cell padding-top: ;
+    cell padding-inline: ;
+}
+
+.orange{
+    color: black;
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: small;
+}
+
+.Triangle{
+    color: black;
+    text-align: left;
+    font-weight:bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:small;
+}
+
+.Snake{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: small;
+}
+
+.Yemisi{
+    color: whitesmoke;
+    text-align: center;
+    background-color: #ACB1D6;
+}
